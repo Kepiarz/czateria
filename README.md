@@ -66,13 +66,13 @@ botem udającym człowieka (przygotowywanym na test Turinga) a botem
 - częsta zmiana tematu rozmowy,
 - problemy z utrzymaniem wątków.
 
-4. Sporządź raport ze spostrzeżeń.
+3. Sporządź raport ze spostrzeżeń.
 
-5. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie prze-
+4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie prze-
 widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
 
-6. Zdenerwuj bota 😊😊
+5. Zdenerwuj bota 😊😊
 
 ## Lista startowa chatbotów:
 - cleverbot.com
