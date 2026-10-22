@@ -1,21 +1,20 @@
 # Zadanie 2 - Maksymilian Kępka
 
-- streszczanie tekstu - Duże Modele Językowe, bardzo często dzisiaj służą do streszczeń tekstów, według niektórych, LLM-y na poziomie językowym rozwijają się bardzo dobrze.
+- streszczanie tekstu - przetwarzanie języka naturalnego, rozumienie tekstu.
 
-- tłumaczenie tekstu - Podobnie jak przy streszczeniu, są w tym uważam bardzo dobre.
+- tłumaczenie tekstu - klasyczny problem SI (tłumaczenie maszynowe), jeden z najstarszych.
 
-- klasyfikacja tekstu do kategorii tematycznych - 
+- klasyfikacja tekstu do kategorii tematycznych - typowe zadanie uczenia maszynowego.
 
-- odpowiadanie na proste pytania zadawane w języku naturalnym - 
+- odpowiadanie na proste pytania zadawane w języku naturalnym - przetwarzanie języka, systemy pytanie-odpowiedź, chatboty.
 
-- rozwiązywanie układów równań - 
+- układanie rozkładu jazdy - problem optymalizacji z ograniczeniami, takimi rzeczami właśnie zajmuje się planowanie i przeszukiwanie w SI.
 
-- układanie rozkładu jazdy - 
+- kierowanie samochodem - algorytmy od lat potrafiły wspomagać kierowców w prowadzeniu samochodem, a od jakiegoś czasu, zyskała w tym pełną autonomię (np. Waymo).
 
-- rozwiązywanie układów równań liniowych - 
+- symboliczne całkowanie - tu trzeba dobierać metody i przeszukiwać możliwości. Historycznie to był jeden z pierwszych programów uznawanych za SI (systemy algebry symbolicznej).
 
-- symboliczne obliczanie pochodnych -
- 
-- symboliczne całkowanie - 
+# Mała uwaga
 
-- kierowanie samochodem - algorytmy od lat potrafiła wspomagać kierowców w prowadzeniu samochodem, a od jakiegoś czasu, zyskała w tym pełną autonomię (np. Waymo)
+**Często bywa tak, że pewne rozwiązania powiązane z SI, które zdążyliśmy zinkorporować w nasze codzienne życia, stają się standardem, mało kto zastanawia się nad tym, 
+które z tych rzeczy powinniśmy nazywać "SI".**
