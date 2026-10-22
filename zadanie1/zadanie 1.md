@@ -1,4 +1,4 @@
-# Zadanie 1
+# Zadanie 1 - Maksymilian Kępka
 
 ## Zakładam, że "wymaga inteligencji" znaczy tu: człowiek nie robi tego mechanicznie, tylko musi rozumieć, o co chodzi, i podejmować decyzje w sytuacjach, których nie da się w pełni przewidzieć.
 
